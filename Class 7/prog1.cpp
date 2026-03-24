@@ -11,7 +11,8 @@ protected:
 public:
     Person(string n, int a) : name(n), age(a) {}
 
-    void displayPerson() {
+    void displayPerson()
+    {
         cout << "Name: " << name << ", Age: " << age << endl;
     }
 };
