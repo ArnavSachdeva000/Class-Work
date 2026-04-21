@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/arnav/Code/Class-Work/Class 3",
-      "program": "c:/Users/arnav/Code/Class-Work/Class 3/build/Debug/outDebug",
+      "cwd": "c:/Users/arnav/Code (College)/Class-Work/Class 13",
+      "program": "c:/Users/arnav/Code (College)/Class-Work/Class 13/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

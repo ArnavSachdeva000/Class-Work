@@ -1,3 +1,4 @@
+// This program demonstrates the concept of virtual inheritance in C++.
 #include <iostream>
 using namespace std;
 
